@@ -1,5 +1,5 @@
 ## About me
--  Hi, I’m Prizzledev
+-  Hi, I’m Prizzle
 -  I’m a junior developer, 15 years old and from germany.
 -  I’m interested in web development
    - api based working
